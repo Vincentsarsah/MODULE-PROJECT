@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+    background-color: #dbbc34;
+    padding: 50px;
+    background-image: url("write.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#rgform {
+    color: white;
+    text-align: center;
+}
+
+.submit {
+    background-color: teal;
+    color: white;
+    font-size: larger;
+}
